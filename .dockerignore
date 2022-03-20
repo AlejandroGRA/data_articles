@@ -1,0 +1,5 @@
+venv_da/
+__pycache__/
+build_project.sh
+Dockerfile
+.env
